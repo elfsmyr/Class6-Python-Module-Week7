@@ -1,0 +1,27 @@
+[
+    {
+        "Symbol": "GOOG",
+        "Company": "Google Inc.",
+        "Price": "800"
+    },
+    {
+        "Symbol": "AAPL",
+        "Company": "Apple Inc.",
+        "Price": "500"
+    },
+    {
+        "Symbol": "AMZN",
+        "Company": "Amazon.com Inc.",
+        "Price": "250"
+    },
+    {
+        "Symbol": "YHOO",
+        "Company": "Yahoo! Inc.",
+        "Price": "250"
+    },
+    {
+        "Symbol": "FB",
+        "Company": "Facebook, Inc.",
+        "Price": "30"
+    }
+]
