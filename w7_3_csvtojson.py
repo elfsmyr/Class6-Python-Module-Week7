@@ -3,7 +3,6 @@ import json
 
 def csv_to_json(csvFilePath, jsonFilePath):
     jsonArray = []
-      
     
     with open(csvFilePath, encoding='utf-8') as csvf: 
         csvReader = csv.DictReader(csvf) 

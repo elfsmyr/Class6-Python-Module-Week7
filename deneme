@@ -1,0 +1,15 @@
+import json
+f = open('data.json',)
+ 
+# returns JSON object as
+# a dictionary
+data = json.load(f)
+print(data)
+# Iterating through the json
+# list
+for i in data:
+    #for j in data.values():
+      print(data[i])
+ 
+# Closing file
+f.close()
